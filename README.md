@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puyangZhao
 - 👀 
-- 📫 
+- 📫 puyangzhao97@gmail.com
 
 <!---
 puyangZhao/puyangZhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
